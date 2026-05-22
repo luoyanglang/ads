@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "system_check": "ad_manager_core_component_v2024",
-  "last_updated": "2024-12-29T10:00:00Z",
+  "last_updated": "2026-05-22T08:57:00Z",
   "header": {
     "title": "📨 一款实用的个人监听",
     "author": "作者狼哥@luoyanglang"
@@ -23,17 +23,6 @@
       "title": "交流群组",
       "content": "💬 加入交流群",
       "url": "https://t.me/langgepython",
-      "is_active": true,
-      "frequency": 10,
-      "priority": 5,
-      "start_time": "2024-01-01T00:00:00Z",
-      "end_time": "2026-12-31T23:59:59Z"
-    },
-    {
-      "id": "ad_003",
-      "title": "买服务器找台妹",
-      "content": "🔥支持测试，支持25端口，买服务器找台妹",
-      "url": "https://t.me/Hotgirl88888",
       "is_active": true,
       "frequency": 10,
       "priority": 5,
